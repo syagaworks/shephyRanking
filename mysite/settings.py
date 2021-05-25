@@ -42,6 +42,7 @@ MIDDLEWARE = [
 CORS_ORIGIN_WHITELIST = [
     'https://syagaworks.github.io',
     'http://127.0.0.1:1234',
+    'https://elmshephy210525.netlify.app',
 ]
 
 CORS_ALLOW_CREDENTIALS = True
